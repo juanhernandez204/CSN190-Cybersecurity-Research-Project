@@ -1,4 +1,4 @@
-**Topic: Web application testing methodologies
+** Topic: Web application testing methodologies
 
 GitHub Project 1: OWASP. (2025). _The Web Security Testing Guide_.
 * Citation: OWASP. (2025). _The Web Security Testing Guide_. GitHub. (https://github.com/OWASP/wstg)

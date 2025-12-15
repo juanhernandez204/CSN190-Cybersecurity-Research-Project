@@ -19,3 +19,15 @@
   Summary: This research by the University of Portsmouth shows how websites and how some profiles on there look real but are actually fake and most of them being ones that look for people to hire for jobs.
   In the article it tells how about 20k people feel for fake profiles in LinkedIn and gave sensative information to people who turned out to be fake recruiters from the Chinese government to get information.
   Used in Module 3
+
+## GitHub Projects
+1. "Sherlock" by ppfeister
+   Link: [https://github.com/sherlock-project/sherlock]
+   Summary: I learned that this GitHub project lets you find the social media accounts that are associated with a username.
+   Used in Module 6
+
+## Video and Turtorials
+- "Find social media accounts with Sherlock"
+- Link: [https://youtu.be/KdZvxxLsN3E]
+- Creator: NetworkChuck
+- What I learned: I learned that this was easy to set up and you can do it if you are a beginner and want to try something new.
